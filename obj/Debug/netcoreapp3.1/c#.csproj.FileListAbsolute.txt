@@ -1,4 +1,3 @@
-/Users/huangpo-hsiang/project/line-bot/c#/bin/Debug/netcoreapp3.1/appsettings.Development.json
 /Users/huangpo-hsiang/project/line-bot/c#/bin/Debug/netcoreapp3.1/appsettings.json
 /Users/huangpo-hsiang/project/line-bot/c#/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
 /Users/huangpo-hsiang/project/line-bot/c#/bin/Debug/netcoreapp3.1/c#.deps.json
@@ -17,3 +16,4 @@
 /Users/huangpo-hsiang/project/line-bot/c#/obj/Debug/netcoreapp3.1/c#.dll
 /Users/huangpo-hsiang/project/line-bot/c#/obj/Debug/netcoreapp3.1/c#.pdb
 /Users/huangpo-hsiang/project/line-bot/c#/obj/Debug/netcoreapp3.1/c#.genruntimeconfig.cache
+/Users/huangpo-hsiang/project/line-bot/c#/bin/Debug/netcoreapp3.1/appsettings.dev.json

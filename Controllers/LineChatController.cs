@@ -8,16 +8,9 @@ namespace LineDeployBot.Controllers {
 
         public LineChatController() {}
 
-        [HttpPost]
-        public ActionResult POST() {
-            string ChannelAccessToken = "LINE的TOKEN";
-
-            try {
-                return Ok();
-            } catch (Exception ex) {
-                return Ok();
-            }
-
+        [HttpGet]
+        public ActionResult<dynamic> Test() {
+            return new { status = "ok" };
         }
     }
 }
