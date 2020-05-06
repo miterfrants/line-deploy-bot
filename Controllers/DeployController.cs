@@ -1,9 +1,8 @@
-﻿using System;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 
 namespace LineDeployBot.Controllers {
     [ApiController]
-    [Route("[controller]")]
+    [Route("deploy")]
     public class LineChatController : ControllerBase {
 
         public LineChatController() {}
